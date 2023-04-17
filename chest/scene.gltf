@@ -1,0 +1,785 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        46.098331451416016,
+        16.030582427978516,
+        30.0
+      ],
+      "min": [
+        -46.098331451416016,
+        -15.933866500854492,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3936,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        0.9778827428817749,
+        0.9799999594688416
+      ],
+      "min": [
+        0.019999999552965164,
+        0.019999999552965164
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2624,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        0.9778827428817749,
+        0.9799999594688416
+      ],
+      "min": [
+        0.019999999552965164,
+        0.019999999552965164
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5248,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        0.9778827428817749,
+        0.9799999594688416
+      ],
+      "min": [
+        0.019999999552965164,
+        0.019999999552965164
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 660,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 7872,
+      "componentType": 5126,
+      "count": 210,
+      "max": [
+        3.112407684326172,
+        38.943389892578125,
+        6.014636516571045
+      ],
+      "min": [
+        -2.4153826236724854,
+        33.935218811035156,
+        0.6682147979736328
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10392,
+      "componentType": 5126,
+      "count": 210,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 7872,
+      "componentType": 5126,
+      "count": 210,
+      "max": [
+        1.0449823141098022,
+        1.0449823141098022
+      ],
+      "min": [
+        -0.035531461238861084,
+        -0.041331589221954346
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2640,
+      "componentType": 5125,
+      "count": 660,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12912,
+      "componentType": 5126,
+      "count": 210,
+      "max": [
+        3.112407684326172,
+        38.943389892578125,
+        6.014636516571045
+      ],
+      "min": [
+        -2.4153826236724854,
+        33.935218811035156,
+        0.6682147979736328
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 15432,
+      "componentType": 5126,
+      "count": 210,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 9552,
+      "componentType": 5126,
+      "count": 210,
+      "max": [
+        1.0449823141098022,
+        1.0449823141098022
+      ],
+      "min": [
+        -0.035531461238861084,
+        -0.041331589221954346
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 5280,
+      "componentType": 5125,
+      "count": 660,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 17952,
+      "componentType": 5126,
+      "count": 210,
+      "max": [
+        3.112407684326172,
+        38.943389892578125,
+        6.014636516571045
+      ],
+      "min": [
+        -2.4153826236724854,
+        33.935218811035156,
+        0.6682147979736328
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 20472,
+      "componentType": 5126,
+      "count": 210,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11232,
+      "componentType": 5126,
+      "count": 210,
+      "max": [
+        1.0449823141098022,
+        1.0449823141098022
+      ],
+      "min": [
+        -0.035531461238861084,
+        -0.041331589221954346
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 7920,
+      "componentType": 5125,
+      "count": 660,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 22992,
+      "componentType": 5126,
+      "count": 210,
+      "max": [
+        3.112407684326172,
+        38.943389892578125,
+        6.014636516571045
+      ],
+      "min": [
+        -2.4153826236724854,
+        33.935218811035156,
+        0.6682147979736328
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 25512,
+      "componentType": 5126,
+      "count": 210,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12912,
+      "componentType": 5126,
+      "count": 210,
+      "max": [
+        1.0449823141098022,
+        1.0449823141098022
+      ],
+      "min": [
+        -0.035531461238861084,
+        -0.041331589221954346
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 10560,
+      "componentType": 5125,
+      "count": 660,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "massive-graphisme (https://sketchfab.com/massive-graphisme)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/low-poly-renaissance-chest-c301a8c02a7347628f1d4399879b2608",
+      "title": "low poly renaissance chest"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 13200,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14592,
+      "byteOffset": 13200,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28032,
+      "byteOffset": 27792,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 55824,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/CorpsCoffre_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/piedscoffre_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "CorpsCoffre",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6963311920999999
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "piedscoffre",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8929713596
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Box001_CorpsCoffre_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "TEXCOORD_2": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Box002_piedscoffre_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Box003_piedscoffre_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TEXCOORD_0": 12
+          },
+          "indices": 13,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Box004_piedscoffre_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 15,
+            "POSITION": 14,
+            "TEXCOORD_0": 16
+          },
+          "indices": 17,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Box005_piedscoffre_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 19,
+            "POSITION": 18,
+            "TEXCOORD_0": 20
+          },
+          "indices": 21,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "coffreexport.FBX"
+    },
+    {
+      "children": [
+        3,
+        5,
+        8,
+        11,
+        14
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        25.0,
+        6.129718780517578,
+        -4.999999523162842,
+        1.0
+      ],
+      "name": "Box001"
+    },
+    {
+      "mesh": 0,
+      "name": "Box001_CorpsCoffre_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        0.7071068109888685,
+        0.0,
+        -0.7071067513842252,
+        0.0,
+        -0.7071067513842252,
+        0.0,
+        -0.7071068109888685,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        69.21581268310547,
+        3.341425657272339,
+        9.003440856933594,
+        1.0
+      ],
+      "name": "Box002"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        0.9999999999999982,
+        -5.960463753430543e-08,
+        0.0,
+        0.0,
+        5.960463753430543e-08,
+        0.9999999999999982,
+        0.0,
+        0.0,
+        -0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.3485145568847656,
+        -36.439308166503906,
+        -3.341425657272339,
+        1.0
+      ],
+      "name": "Object_6"
+    },
+    {
+      "mesh": 1,
+      "name": "Box002_piedscoffre_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        0.707106900395829,
+        0.0,
+        0.7071066619772459,
+        0.0,
+        0.7071066619772459,
+        0.0,
+        -0.7071069003958291,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -19.48169708251953,
+        3.341425657272339,
+        9.003427505493164,
+        1.0
+      ],
+      "name": "Box003"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.3485126495361328,
+        -36.43930435180664,
+        -3.341425657272339,
+        1.0
+      ],
+      "name": "Object_9"
+    },
+    {
+      "mesh": 2,
+      "name": "Box003_piedscoffre_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        -0.7071067811865475,
+        -1.1102230246251565e-16,
+        0.7071067811865475,
+        0.0,
+        0.7071067811865475,
+        1.1102230246251565e-16,
+        0.7071067811865475,
+        0.0,
+        -1.1102230246251565e-16,
+        1.0,
+        1.1102230246251565e-16,
+        0.0,
+        -19.48169708251953,
+        3.341425657272339,
+        -19.049795150756836,
+        1.0
+      ],
+      "name": "Box004"
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.3485126495361328,
+        -36.43930435180664,
+        -3.341425657272339,
+        1.0
+      ],
+      "name": "Object_12"
+    },
+    {
+      "mesh": 3,
+      "name": "Box004_piedscoffre_0"
+    },
+    {
+      "children": [
+        15
+      ],
+      "matrix": [
+        -0.7071067811865475,
+        1.1102230246251565e-16,
+        -0.7071067811865475,
+        0.0,
+        -0.7071067811865475,
+        1.1102230246251565e-16,
+        0.7071067811865475,
+        0.0,
+        1.1102230246251565e-16,
+        1.0,
+        1.1102230246251565e-16,
+        0.0,
+        69.21581268310547,
+        3.341425657272339,
+        -19.08127212524414,
+        1.0
+      ],
+      "name": "Box005"
+    },
+    {
+      "children": [
+        16
+      ],
+      "matrix": [
+        0.9999999999999982,
+        -5.960463753430543e-08,
+        0.0,
+        0.0,
+        5.960463753430543e-08,
+        0.9999999999999982,
+        0.0,
+        0.0,
+        -0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.3485145568847656,
+        -36.439308166503906,
+        -3.341425657272339,
+        1.0
+      ],
+      "name": "Object_15"
+    },
+    {
+      "mesh": 4,
+      "name": "Box005_piedscoffre_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}

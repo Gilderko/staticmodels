@@ -1,0 +1,11 @@
+Model Information:
+* title:	Round Stand (FREE)
+* source:	https://sketchfab.com/3d-models/round-stand-free-5734834b9c0d436c9b581cf2257666bf
+* author:	Brandon Westlake (https://sketchfab.com/dr.badass2142)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Round Stand (FREE)" (https://sketchfab.com/3d-models/round-stand-free-5734834b9c0d436c9b581cf2257666bf) by Brandon Westlake (https://sketchfab.com/dr.badass2142) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
